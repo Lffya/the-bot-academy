@@ -98,7 +98,7 @@ export function SuccessStoriesSection() {
                   </div>
                 </div>
 
-                <p className="text-gray-600 text-sm italic">"{story.story}"</p>
+                <p className="text-gray-600 text-sm italic">&quot;{story.story}&quot;</p>
               </CardContent>
             </Card>
           ))}
