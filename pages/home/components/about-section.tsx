@@ -60,8 +60,8 @@ export function AboutSection() {
                 <p className="text-blue-600 font-medium">Founder, Bot Academy</p>
               </div>
               <p className="text-gray-600 text-center leading-relaxed">
-                "With over 19 years of experience in branding, sales, and digital growth, I'm building Bot Academy to
-                train marketers who can think like strategists and deliver results from day one."
+                With over 19 years of experience in branding, sales, and digital growth, Im building Bot Academy to
+                train marketers who can think like strategists and deliver results from day one.
               </p>
             </CardContent>
           </Card>

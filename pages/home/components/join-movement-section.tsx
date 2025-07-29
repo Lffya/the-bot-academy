@@ -30,7 +30,7 @@ export function JoinMovementSection() {
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">Join the Movement</h2>
           <p className="text-xl text-blue-100 max-w-4xl mx-auto leading-relaxed mb-8">
-            Bot Academy isn't just a school — it's a mission. Our goal is to create meaningful impact in rural India
+            Bot Academy isnt just a school — its a mission. Our goal is to create meaningful impact in rural India
             while building the next generation of strategic marketers.
           </p>
         </div>

@@ -105,7 +105,7 @@ export function ProgramsSection() {
                   <p className="text-gray-600 mb-4">{program.description}</p>
 
                   <div className="mb-6">
-                    <h4 className="font-semibold text-gray-900 mb-3">What You'll Learn:</h4>
+                    <h4 className="font-semibold text-gray-900 mb-3">What Youll Learn:</h4>
                     <ul className="space-y-2">
                       {program.features.map((feature, featureIndex) => (
                         <li key={featureIndex} className="flex items-start space-x-2">
